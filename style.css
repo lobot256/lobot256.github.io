@@ -11,3 +11,15 @@ html {
   color:black;
 
 }
+
+@font-face{
+  font-family:hamirez; 
+  src: url(./hamirez/Hamirez\ TTF\ Personal.ttf);
+  
+}
+
+
+.cus{
+  font-family:hamirez; 
+  font-size:large;
+}
